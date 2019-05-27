@@ -1,2 +1,2 @@
-# communitypilot.github.io
+# communitypilot
 CP Website
