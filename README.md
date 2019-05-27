@@ -1,2 +1,1 @@
-# communitypilot
 CP Website
