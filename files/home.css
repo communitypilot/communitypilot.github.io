@@ -579,7 +579,6 @@ select:focus,input:focus,textarea:focus, div{outline:none}
   #logo{display:block}
   #navoverlay{display:none}
   #hamburger{display:none}
-  .page-title{height: 250px; line-height: 250px}
   #iframe-holder{width:65%}
   .col-2-3{width: 66.666%}
   .col-1-4{width: 25%}
