@@ -81,11 +81,6 @@
   display: inline-block;
   text-transform: uppercase;
   top: 50%;
-  -webkit-transform: translateY(-50%);
-     -moz-transform: translateY(-50%);
-      -ms-transform: translateY(-50%);
-       -o-transform: translateY(-50%);
-          transform: translateY(-50%);
 }
 .module-hover h1{
   font-size: 1.7em;
